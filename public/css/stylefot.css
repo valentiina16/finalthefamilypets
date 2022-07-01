@@ -1,0 +1,10 @@
+.contenedor_foto{
+    width: 250px;
+    margin: auto;
+    max-height: 300px;
+    text-align: center;
+}
+.FotoF{
+  width: 250px;
+  height: 250px;
+}
